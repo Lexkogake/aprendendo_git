@@ -1,0 +1,13 @@
+Aprendi e busquei mais dados no google
+Comando basicos
+git init = para inicializar o git
+git add . = para adicionar o conteudo no stage do git, usando .(ponto) ele inclui tudo, ou pode digitar o nome do arquivo especifico 'git add arquivo.md'
+git commit -m "texto" = adiciona um texto para o que for modificado e for subir para o git
+git commit -a -m "texto" = adiciona e ja adiciona o texto junto
+git remote add origin "link_repo".git = faz o vinculo do git remoto com o git local
+git push -u origin main = comando para enviar os dados do git local para o remoto
+git push = depois de feito o comando de cima, pode usar somente 'git push'
+
+git status = para verificar o estado dos arquivos no git local
+git branch "nome" = cria uma nova linha do tempo no git local
+git checkout "nome" = muda para nova linha do tempo
